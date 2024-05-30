@@ -12,7 +12,7 @@ Pour l'instant, il n'y a pas beacoup de fontionnalités. Mais voici celles dispo
 /fermeture ou /f : Fait une annonce de fermeture de votre entreprise sur le serveur entier.
 
 # 📁 Installation:
-➝ Téléchargez EventTools_Nkz.dll depuis la page des releases : Release GitHub ImprovedBiz.
+➝ Téléchargez ImprovedBiz.dll depuis la page des releases : Release GitHub ImprovedBiz.
 
 ➝ Ajoutez ImprovedBiz.dll dans le dossier des plugins de votre serveur Nova-Life.
 
