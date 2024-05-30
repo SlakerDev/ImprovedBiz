@@ -28,4 +28,4 @@ En téléchargeant ce fichier, vous acceptez ces conditions.
 - Garage entreprise (immunité des véhicules au /stowall)
 
 # 🔌 Support & Contact:
-Si vous rencontrez des problèmes ou avez besoin d'aide avec le plugin, contactez-moi sur Discord : emile.cvl 
+Si vous rencontrez des problèmes ou avez besoin d'aide avec le plugin, allez sur mon serveur Discord : https://discord.gg/uZUsWymAc7
