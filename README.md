@@ -14,6 +14,9 @@ Pour l'instant, il n'y a pas beacoup de fontionnalités. Mais voici celles dispo
 ➝ Ajoutez ImprovedBiz.dll dans le dossier des plugins de votre serveur Nova-Life.
 ➝ Démarrez votre serveur.
 
+# 📍 Dépandences :
+Modkit & AAMenu par Aarnow : https://github.com/Aarnow/NovaLife_ModKit-Releases/releases/latest
+
 # ⚠ Conditions d'utilisation:
 Slaker n'est pas responsable des dégâts qui sont causés sur votre serveur
 Si vous souhaitez utiliser ce mod sur votre serveur Nova Life, vous avez le droit.
