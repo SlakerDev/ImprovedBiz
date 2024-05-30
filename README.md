@@ -32,7 +32,6 @@ En téléchargeant ce fichier, vous acceptez ces conditions.
 
 # 🦺 À venir :
 - Annonce pour employés
-- 
 - Garage entreprise (immunité des véhicules au /stowall)
 
 # 🔌 Support & Contact:
