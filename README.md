@@ -15,8 +15,10 @@ Pour l'instant, il n'y a pas beacoup de fontionnalités. Mais voici celles dispo
 ➝ Démarrez votre serveur.
 
 # ⚠ Conditions d'utilisation:
-Merci de respecter le temps et l'effort investis dans le développement de ce plugin. 
-Veuillez ne pas l'utiliser de manière inappropriée et ne pas altérer son intégrité.
+Slaker n'est pas responsable des dégâts qui sont causés sur votre serveur
+Si vous souhaitez utiliser ce mod sur votre serveur Nova Life, vous avez le droit.
+Il est interdit de revendiquer ou de vendre ce travail comme étant le vôtre.
+En téléchargeant ce fichier, vous acceptez ces conditions.
 
 # 🦺 À venir :
 - Annonce pour employés
